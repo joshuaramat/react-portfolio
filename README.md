@@ -4,7 +4,7 @@
 A portfolio website built with React.js that showcases all of Joshua Ramat's coding projects.
 
 ## Link
-https://joshuaramat.github.io/react-port/
+https://joshuaramat.github.io/react-portfolio/
 
 ## Screenshot
 ![Screenshot of top of page](./src/assets/screenshot.png)
