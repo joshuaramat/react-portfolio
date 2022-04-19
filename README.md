@@ -1,7 +1,7 @@
 # React Portfolio
 
 ## Purpose
-A portfolio website built with React.js that showcases all of Te Wei's coding projects.
+A portfolio website built with React.js that showcases all of Joshua Ramat's coding projects.
 
 ## Link
 https://joshuaramat.github.io/react-port/
