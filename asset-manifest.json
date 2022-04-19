@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-port/static/css/main.da3de635.css",
-    "main.js": "/react-port/static/js/main.45139d39.js",
-    "static/media/joshua.JPG": "/react-port/static/media/joshua.6e2de7ee7af4777c7d4f.JPG",
-    "static/media/work-day-scheduler.png": "/react-port/static/media/work-day-scheduler.3fcc5c493f34afd45455.png",
-    "static/media/weather-dashboard.png": "/react-port/static/media/weather-dashboard.00aa1644c204584c49e2.png",
-    "static/media/note-taker.png": "/react-port/static/media/note-taker.5d97b1bca7f21e34b656.png",
-    "static/media/movieDashboard.jpeg": "/react-port/static/media/movieDashboard.a9345d2f2a8445d540da.jpeg",
-    "static/media/computer-circuit-bg.png": "/react-port/static/media/computer-circuit-bg.3a8e7ab3caf88db9bdb6.png",
-    "static/media/code-quiz.png": "/react-port/static/media/code-quiz.41d26539c3303f94522a.png",
-    "static/media/run-buddy.jpg": "/react-port/static/media/run-buddy.f015cf93e17b5bb0eff9.jpg",
-    "static/media/horiseon.jpg": "/react-port/static/media/horiseon.288971f65ab9e71e8007.jpg",
-    "static/media/team-profile-generator.png": "/react-port/static/media/team-profile-generator.cb3735ae3d8ecbeb6f9e.png",
-    "static/media/password-generator.jpg": "/react-port/static/media/password-generator.9cb7a721c182e8dbc08c.jpg",
-    "index.html": "/react-port/index.html",
-    "main.da3de635.css.map": "/react-port/static/css/main.da3de635.css.map",
-    "main.45139d39.js.map": "/react-port/static/js/main.45139d39.js.map"
+    "main.css": "/react-portfolio/static/css/main.b95208f6.css",
+    "main.js": "/react-portfolio/static/js/main.7191ac5f.js",
+    "static/media/joshua.JPG": "/react-portfolio/static/media/joshua.6e2de7ee7af4777c7d4f.JPG",
+    "static/media/work-day-scheduler.png": "/react-portfolio/static/media/work-day-scheduler.3fcc5c493f34afd45455.png",
+    "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.00aa1644c204584c49e2.png",
+    "static/media/note-taker.png": "/react-portfolio/static/media/note-taker.5d97b1bca7f21e34b656.png",
+    "static/media/movieDashboard.jpeg": "/react-portfolio/static/media/movieDashboard.a9345d2f2a8445d540da.jpeg",
+    "static/media/computer-circuit-bg.png": "/react-portfolio/static/media/computer-circuit-bg.3a8e7ab3caf88db9bdb6.png",
+    "static/media/code-quiz.png": "/react-portfolio/static/media/code-quiz.41d26539c3303f94522a.png",
+    "static/media/run-buddy.jpg": "/react-portfolio/static/media/run-buddy.f015cf93e17b5bb0eff9.jpg",
+    "static/media/horiseon.jpg": "/react-portfolio/static/media/horiseon.288971f65ab9e71e8007.jpg",
+    "static/media/team-profile-generator.png": "/react-portfolio/static/media/team-profile-generator.cb3735ae3d8ecbeb6f9e.png",
+    "static/media/password-generator.jpg": "/react-portfolio/static/media/password-generator.9cb7a721c182e8dbc08c.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.b95208f6.css.map": "/react-portfolio/static/css/main.b95208f6.css.map",
+    "main.7191ac5f.js.map": "/react-portfolio/static/js/main.7191ac5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.da3de635.css",
-    "static/js/main.45139d39.js"
+    "static/css/main.b95208f6.css",
+    "static/js/main.7191ac5f.js"
   ]
 }
